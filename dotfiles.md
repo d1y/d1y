@@ -251,3 +251,30 @@ paru -S jless
 # fx = https://github.com/antonmedv/fx
 alias fx="jless"
 ```
+
+# pbcopy & pbpaste
+
+> ohmyzsh: https://github.com/ohmyzsh/ohmyzsh/blob/master/lib/clipboard.zsh
+
+```bash
+alias pbcopy=clipcopy
+alias pbpaste=clippaste
+```
+
+# ouch
+
+> 支持多种格式的压缩解压工具
+
+```bash
+# macos
+cargo install ouch # homebrew 目前官方好像没有
+
+# archlinux
+paru -S ouch
+```
+
+`~/.zshrc` 配置
+
+```bash
+alias up=ouch
+```
