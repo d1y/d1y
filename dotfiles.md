@@ -265,6 +265,8 @@ alias pbpaste=clippaste
 
 > 支持多种格式的压缩解压工具
 
+Github: https://github.com/ouch-org/ouch
+
 ```bash
 # macos
 cargo install ouch # homebrew 目前官方好像没有
@@ -277,4 +279,59 @@ paru -S ouch
 
 ```bash
 alias up=ouch
+```
+
+# ripgrep
+
+Github: https://github.com/BurntSushi/ripgrep
+
+```bash
+# macos
+brew install ripgrep
+# archlinux
+brew install ripgpre
+```
+
+# igrep
+
+Github: https://github.com/konradsz/igrep
+
+```bash
+# macos
+brew tap konradsz/igrep https://github.com/konradsz/igrep.git
+brew install igrep
+# archlinux
+paru -S igrep
+```
+
+# fd
+
+Github: https://github.com/sharkdp/fd
+
+```bash
+# macos
+brew install fd
+# archlinux
+paru -S fd
+```
+
+# paru
+
+Github: https://github.com/Morganamilo/paru
+
+```bash
+sudo pacman -S paru
+```
+
+# tspin
+
+> 看日志神器
+
+Github: https://github.com/bensadeh/tailspin
+
+```bash
+# macos
+brew install tailspin
+# archlinux
+paru -S tailspin
 ```
