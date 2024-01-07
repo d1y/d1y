@@ -335,3 +335,27 @@ brew install tailspin
 # archlinux
 paru -S tailspin
 ```
+
+# xh
+
+> curl/httpie 替代品
+
+Github: https://github.com/ducaale/xh
+
+```bash
+# macos
+brew install xh
+# archlinux
+paru -S xh
+```
+
+# hyperfine
+
+Github: https://github.com/sharkdp/hyperfine
+
+```bash
+# macos
+brew install hyperfine
+# archlinux
+paru -S hyperfine
+```
