@@ -278,7 +278,7 @@ paru -S ouch
 `~/.zshrc` 配置
 
 ```bash
-alias up=ouch
+alias ox=ouch
 ```
 
 # ripgrep
