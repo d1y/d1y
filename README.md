@@ -5,16 +5,3 @@
 - Flutter(Dart)
 
 > My Dotfiles it's [here ^:)](./dotfiles.md)
-
-```log
-> zed on 🐈 main via 🦀 v1.76.0
--------------------------------
- ________________
-< Now Used Zed Editor >
- ----------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
