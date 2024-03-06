@@ -359,3 +359,11 @@ brew install hyperfine
 # archlinux
 paru -S hyperfine
 ```
+
+# git-quickfix
+
+Github: https://github.com/siedentop/git-quickfix
+
+```bash
+cargo install git-quickfix
+```
