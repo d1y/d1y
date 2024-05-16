@@ -5,5 +5,3 @@
 - Flutter(Dart)
 
 > My Dotfiles it's [here ^:)](./dotfiles.md)
-
-![d1y](https://komarev.com/ghpvc/?username=d1y&label=Preview&color=ff69b4&style=flat&abbreviated=true)
